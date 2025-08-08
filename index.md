@@ -13,6 +13,7 @@ var myVar = "Hello, world!";
 ```
 
 ## Example 3
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
 - [ ] Introduce myself to the world
+
